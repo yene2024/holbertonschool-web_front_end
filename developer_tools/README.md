@@ -2,22 +2,14 @@
 This guide provides an overview of how to use Developer Tools in popular browsers: Chrome, Firefox, Safari, and Edge. It covers opening the tools, using the Elements tab, auditing pages with Lighthouse, creating and running snippets, obtaining file and server information, blocking requests, checking JavaScript and CSS usage, detecting 404 issues, and moving elements on a webpage.
 
 ## Table of Contents
-What Developer Tools Are
-Opening Developer Tools
-Google Chrome
-Mozilla Firefox
-Apple Safari
-Microsoft Edge
-Using the Elements Tab
-Auditing a Page with Lighthouse
-Creating and Running Snippets
-Getting Information About Files and Server Configurations
-Blocking Requests
-Checking JavaScript and CSS Usage
-Detecting 404 Issues
-Moving Elements on a Webpage
-What Developer Tools Are
-Developer Tools (DevTools) are built-in tools in web browsers that help developers inspect and debug webpages. They provide functionalities to view and edit HTML and CSS, debug JavaScript, analyze performance, audit accessibility, and much more.
+Chrome DevTools | Tools for Web Developers | Google Developers
+Introduction | Down and Dirty with Chrome Developer Tools
+Firefox Developer Tools | MDN
+Dev Tips - Developer Tips by Umar Hansa
+Get Started With Viewing And Changing CSS | Tools for Web Developers
+Keeping it simple with the JavaScript console - LogRocket Blog
+Inspect Network Activity - Chrome DevTools 101
+
 
 ## Opening Developer Tools
 Google Chrome
